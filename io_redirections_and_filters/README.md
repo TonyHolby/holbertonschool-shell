@@ -1,0 +1,1 @@
+Read the commits to know the description of each script is doing
