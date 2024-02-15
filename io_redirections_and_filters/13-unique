@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < brouillon > grep -c
+sort < list_1 > grep -c
