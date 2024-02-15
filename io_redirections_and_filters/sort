@@ -1,0 +1,10 @@
+total 68
+-rw-r--r-- 1 root root    0 Feb 15 15:07 sort
+-rw-r--r-- 1 root root    0 Feb 15 15:06 brouillon
+-rwxr--r-- 1 root root   47 Feb 15 14:34 11-directories
+drwxr-xr-x 2 root root 4096 Feb 15 13:50 deux
+drwxr-xr-x 2 root root 4096 Feb 15 13:50 un
+-rwxr--r-- 1 root root   48 Feb 15 13:38 10-no_more_js
+-rwxr-xr-x 1 root root   34 Feb 15 11:13 1-confused_smiley
+-rwxr--r-- 1 root root   40 Feb 15 10:51 9-duplicate_last_line
+-rw-r--r-- 1 root root    0 Feb 15 10:50 iacta
