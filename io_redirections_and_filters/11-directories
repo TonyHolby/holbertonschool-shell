@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d %h | -print | wc -l
+find . -type d -newer .. | wc -l
