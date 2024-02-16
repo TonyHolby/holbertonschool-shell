@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -e -C 64 ^[a-z]
+grep -e -C 64 ^[a-z] | tr -d o
