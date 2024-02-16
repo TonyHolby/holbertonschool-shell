@@ -1,2 +1,2 @@
 #!/bin/bash
-grep / | ls -t | wc -l
+tr : $ | grep / | ls -t | wc -l
