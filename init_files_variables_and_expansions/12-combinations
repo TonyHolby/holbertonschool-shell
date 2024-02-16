@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -e -C 64 ^[a-z]
