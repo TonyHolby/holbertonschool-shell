@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 2~2p
+head -n +1 | tail -n +1
